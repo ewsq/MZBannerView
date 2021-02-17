@@ -21,13 +21,12 @@
        android:layout_width="match_parent"
        android:layout_height="160dp"
        android:layout_marginTop="10dp"
-       app:open_mz_mode="true"
        app:canLoop="true"
-       app:middle_page_cover="true"
        app:indicatorAlign="center"
-       app:indicatorPaddingLeft="10dp"
        app:indicatorPaddingBottom="50dp"
-       />
+       app:indicatorPaddingLeft="10dp"
+       app:middle_page_cover="true"
+       app:open_mz_mode="true" />
 
    <TextView
        android:layout_width="match_parent"
